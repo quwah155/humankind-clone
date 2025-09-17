@@ -1,0 +1,303 @@
+@media screen and (max-width: 1024px) {
+    .sec1>div {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+.sec4 {
+    height: 70vh;
+}
+
+@media screen and (max-width: 768px) {
+    .show1 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 300px;
+        top: 100px;
+        width: 300px;
+    }
+
+    .show2 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 300px;
+        top: 100px;
+        width: 300px;
+    }
+
+    .show3 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 300px;
+        top: 100px;
+        width: 300px;
+    }
+
+    .sec3>div {
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    }
+
+    .sec3img {
+        padding-top: 10px;
+    }
+
+    .sec3text>p {
+        width: 300px;
+    }
+
+    .a-sec>.btn11 {
+        font-weight: 600;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 70px;
+        height: 25px;
+        border: 1px solid white;
+        color: #d5d6d8;
+        background-color: transparent;
+        position: absolute;
+        top: 70px;
+        right: 180px;
+        border-radius: 4px;
+    }
+
+    .a-sec>.btn22 {
+        font-weight: 600;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 70px;
+        height: 25px;
+        border: 1px solid white;
+        color: #d5d6d8;
+        background-color: transparent;
+        position: absolute;
+        top: 70px;
+        right: 270px;
+        border-radius: 4px;
+    }
+
+    .a-sec-head-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+
+
+}
+
+@media screen and (max-width: 427px) {
+    .sec2 {
+        height: 90vh;
+    }
+
+    .ph1 {
+        display: grid;
+        gap: 2%;
+        padding: 0% 10%;
+    }
+
+    .ph3 {
+        margin-top: 50px;
+    }
+
+    .sec3 {
+        height: 110vh;
+    }
+
+    .sec3>div {
+        display: grid !important;
+        padding: 0% 5%;
+        align-items: center;
+
+    }
+
+    .show1 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 100px;
+        top: 30px;
+        width: 300px;
+    }
+
+    .show2 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 100px;
+        top: 30px;
+        width: 300px;
+    }
+
+    .show3 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 100px;
+        top: 30px;
+        width: 300px;
+    }
+
+    .a-sec-head {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .b-sectail1>img {
+        width: 70% !important;
+    }
+
+    footer {
+        padding: 0px 0px;
+    }
+
+    .ftimg {
+        flex-wrap: wrap;
+    }
+
+    .ftlogos {
+        padding: 20px 30px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .sec2 {
+        height: 155vh;  
+    }
+
+    .ph2 {
+        padding-left: 10%;
+    }
+
+    .ph2>h1,
+    p,
+    ul {
+        width: 70%;
+    }
+
+    .ph3>img {
+        width: 300px;
+    }
+
+    .sec3 {
+        height: 155vh;
+    }
+
+    .sec3img>img {
+        height: 150px;
+        width: 300px;
+    }
+
+    .sec3text {
+        padding: 0% 6%;
+
+    }
+
+    .show1 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 70px;
+        top: 30px;
+        width: 200px;
+    }
+
+    .show2 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 70px;
+        top: 30px;
+        width: 200px;
+    }
+
+    .show3 {
+        opacity: 0;
+        animation-iteration-count: infinite;
+        position: absolute;
+        right: 70px;
+        top: 30px;
+        width: 200px;
+    }
+
+    .b-sec {
+        padding: 5px 10px;
+    }
+
+    footer {
+        height: 150vh;
+    }
+
+    .legal-links {
+        flex-wrap: wrap;
+    }
+
+    .ftlogos {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media screen and (max-width: 322px) {
+
+    .sec3{
+        height: 180vh;
+    }
+    .sec3>div {
+        padding: 0% 5%;
+
+    }
+
+    .sec3img>img {
+        height: 150px;
+        width: 300px;
+    }
+
+    .sec3text>h1,
+    h2 {
+        padding-left: 10%;
+    }
+
+    .sec3text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .a-sec>.btn11 {
+        font-weight: 600;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 70px;
+        height: 25px;
+        border: 1px solid white;
+        color: #d5d6d8;
+        background-color: transparent;
+        position: absolute;
+        top: 70px;
+        right: 55px;
+        border-radius: 4px;
+    }
+
+    .a-sec>.btn22 {
+        font-weight: 600;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 70px;
+        height: 25px;
+        border: 1px solid white;
+        color: #d5d6d8;
+        background-color: transparent;
+        position: absolute;
+        top: 70px;
+        right: 200px;
+        border-radius: 4px;
+    }
+
+    .b-sec {
+        padding: 16px 10px;
+    }
+}
