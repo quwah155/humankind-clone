@@ -300,4 +300,8 @@
     .b-sec {
         padding: 16px 10px;
     }
+
+footer{
+    height: 190vh;
+}
 }

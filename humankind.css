@@ -219,7 +219,7 @@ hr {
 
 .sec3 {
     /* height: 100vh; */
-    background-image: url(/second-promo-landscape\ \(1\).jpg);
+    background-image: url(./second-promo-landscape\ \(1\).jpg);
     background-position: center;
     /* position: relative; */
 }
@@ -447,7 +447,7 @@ hr {
 
 .b-sec {
     padding: 20px 40px;
-    background-image: url(/G2G-Background.jpg);
+    background-image: url(./G2G-Background.jpg);
     background-position: center;
     display: flex;
     gap: 20px;
