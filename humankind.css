@@ -150,7 +150,7 @@ hr {
 .vid-group>h1 {
     width: 230px;
     text-align: start;
-    /* font-size: 18px; */
+    font-size: 28px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
@@ -165,9 +165,9 @@ hr {
 
 .vid-title {
     position: absolute;
-    top: 40%;
+    top: 43%;
     text-align: center !important;
-
+    font-size: 23px !important;
 }
 
 .sec2 {
@@ -267,7 +267,7 @@ hr {
 }
 
 .sec4 {
-    height: 40vh;
+    height: 40vh !important;
     background-image: url(./quote_bg.jpg);
     background-position: center;
     color: white;
