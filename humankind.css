@@ -104,7 +104,7 @@ header {
 hr {
     color: white;
     height: 10px;
-    /* margin-bottom: 20px; */
+  
 }
 
 .sec1 {
@@ -512,13 +512,7 @@ footer {
     padding: 0px 20px;
 }
 
-/* footer>hr {
-    max-width: 90%;
-}
-.line{
-    color: white;
-    border-top: 1px solid white;
-} */
+
 .ftp {
     color: #ffff;
     font-weight: 400;
